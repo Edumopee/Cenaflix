@@ -1,7 +1,7 @@
 # 🎬 Cenaflix
 
 ## Status do Projeto
-**Em desenvolvimento**
+**Finalizado (Projeto avaliado e aprovado pelo Tutor)**
 
 ---
 
