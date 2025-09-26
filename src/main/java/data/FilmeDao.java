@@ -8,6 +8,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+
+//Essa Classe contém todos os metodos padrão CRUD
+
 public class FilmeDao {
 
     public void insert(Filme filme) throws SQLException {

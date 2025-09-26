@@ -12,6 +12,7 @@ import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import javax.swing.table.DefaultTableModel;
 
+//Aqui esta a tela inicial com o metodo main para execução inicial do sistema
 public class Cenaflix extends javax.swing.JFrame {
 
     private int idSelecionado = -1;

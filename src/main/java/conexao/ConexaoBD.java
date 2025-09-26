@@ -15,7 +15,7 @@ public class ConexaoBD {
             // Carrega o driver
             Class.forName("com.mysql.cj.jdbc.Driver");
 
-            // Faz a conexão com o banco (use seu banco real)
+            // Faz a conexão com o banco
             String url = "jdbc:mysql://localhost:3306/cenaflix";
             String usuario = "root";
             String senha = "Du010890*";
