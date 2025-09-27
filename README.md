@@ -28,6 +28,8 @@ O sistema permite ao usuário:
 | **MySQL (Workbench)** | Banco de dados para persistência das informações. |
 | **JDBC** | Driver de conexão Java com o banco de dados (requisito da atividade). |
 | **Classes DAO** | Padrão de projeto para gerenciar a persistência de dados. |
+| **Maven** | Gerenciador de dependencias. |
+
 
 ---
 
