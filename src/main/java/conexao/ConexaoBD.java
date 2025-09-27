@@ -18,7 +18,7 @@ public class ConexaoBD {
             // Faz a conexão com o banco
             String url = "jdbc:mysql://localhost:3306/cenaflix";
             String usuario = "root";
-            String senha = "Du010890*";
+            String senha = "SENHA DO BANCO DE DADOS";
 
             conn = DriverManager.getConnection(url, usuario, senha);
             System.out.println(" Conexão realizada com sucesso!");
